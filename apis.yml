@@ -41,6 +41,10 @@ apis:
 common:
   - type: Website
     url: https://keyrunner.app/
+  - type: Integrations
+    url: https://keyrunner.app/integrations
+integrations:
+  - name: Retool
 maintainers:
   - FN: Kin Lane
     email: kin@apievangelist.com

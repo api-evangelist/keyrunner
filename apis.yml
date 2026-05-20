@@ -39,6 +39,8 @@ apis:
       - type: Website
         url: https://keyrunner.app/
 common:
+  - type: LinkedIn
+    url: https://www.linkedin.com/company/launchiam
   - type: Website
     url: https://keyrunner.app/
   - type: Integrations

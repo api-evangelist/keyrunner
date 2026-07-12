@@ -39,12 +39,16 @@ apis:
       - type: Website
         url: https://keyrunner.app/
 common:
+  - type: DomainSecurity
+    url: security/keyrunner-domain-security.yml
   - type: LinkedIn
     url: https://www.linkedin.com/company/launchiam
   - type: Website
     url: https://keyrunner.app/
   - type: Integrations
     url: https://keyrunner.app/integrations
+  - type: Blog
+    url: https://keyrunner.app/blog
 integrations:
   - name: Retool
 maintainers:

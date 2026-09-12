@@ -2,23 +2,21 @@
   "repo": "keyrunner",
   "feeds": [
     {
-      "source": "https://keyrunner.app/blog",
-      "feed_url": "https://keyrunner.app/blog",
-      "title": "",
-      "saved": 0,
-      "method": "none",
-      "nature": "vendor-blog",
-      "nature_basis": "path_blog"
-    },
-    {
       "source": "https://keyrunner.app/integrations",
       "feed_url": "https://keyrunner.app/integrations",
       "title": "",
       "saved": 0,
       "method": "none"
+    },
+    {
+      "source": "https://keyrunner.app/blog",
+      "feed_url": "https://keyrunner.app/blog",
+      "title": "",
+      "saved": 0,
+      "method": "none"
     }
   ],
-  "fetched": "2026-08-30T22:33:40Z",
+  "fetched": "2026-09-06T19:17:18Z",
   "post_count": 1,
   "feed_nature": "vendor-blog",
   "feed_nature_basis": "path_blog",

@@ -1,0 +1,33 @@
+# Front Door AI Index — keyrunner — 2026-09-17
+# AI vocabulary counted on the provider's root page. Generated; do not edit.
+# `score` is null unless ownership is `own` — see front_door_ai.py.
+front_door_ai:
+  slug: keyrunner
+  lexicon_version: '1.0'
+  probed_at: '2026-09-17'
+  host: keyrunner.app
+  final_host: keyrunner.app
+  ownership: own
+  owner: keyrunner
+  shares_host_with: null
+  inherited_from: null
+  verdict: scored
+  score: 21
+  host_score: 21
+  density: 21.65
+  words: 970
+  tiers:
+    agentic: 10
+    core: 9
+    model: 2
+  ambiguous: 34
+  top_terms:
+    agent: 34
+    AI: 8
+    AI agent: 4
+    agentic: 4
+    ChatGPT: 1
+    Claude: 1
+    LLMs: 1
+    MCP: 1
+    prompts: 1

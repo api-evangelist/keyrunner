@@ -69,6 +69,12 @@ apis:
       - type: Website
         url: https://keyrunner.app/
 common:
+  - type: Plans
+    url: plans/keyrunner-plans-pricing.yml
+  - type: RateLimits
+    url: rate-limits/keyrunner-rate-limits.yml
+  - type: FinOps
+    url: finops/keyrunner-finops.yml
   - type: DomainSecurity
     url: security/keyrunner-domain-security.yml
   - type: LinkedIn

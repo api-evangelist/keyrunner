@@ -1,4 +1,4 @@
-# KeyRunner (keyrunner)
+# KeyRunner
 
 <!-- API-EVANGELIST-PROVENANCE:BEGIN -->
 > ### About this repository
@@ -66,46 +66,100 @@
 
 KeyRunner is a local-first API platform combining a desktop API client, request monitor, mock server, and secret manager. It is delivered as desktop applications (Windows, macOS Intel, macOS Apple Silicon), a VS Code extension, and a CLI, with all requests and secrets kept inside the developer environment.
 
-**URL:** [Visit APIs.json URL](https://raw.githubusercontent.com/api-evangelist/keyrunner/refs/heads/main/apis.yml)
+**Areas:** API Client · API Testing · Developer Tools · Local-First · Mock Servers · Secret Management
 
-## Scope
+## KeyRunner on APIs.io
 
-- **Type:** Index
-- **Position:** Consumer
-- **Access:** 3rd-Party
+Everything profiled for KeyRunner is published on APIs.io rather than in this repository. Start at the provider page — **[apis.io/providers/keyrunner/](https://apis.io/providers/keyrunner/)** — or go straight to one of the APIs or properties below.
 
-## Tags:
+### APIs (1)
 
- - API Client, API Testing, Developer Tools, Local-First, Mock Server, Secret Management
+- [KeyRunner Platform](https://apis.io/apis/keyrunner/keyrunner-platform/) — The KeyRunner platform provides a local-first toolset for testing, monitoring, mocking, and running APIs with secrets kept on-device. Available as desktop…
 
-## Timestamps
+### Published properties
 
-- **Created:** 2025-01-08
-- **Modified:** 2026-04-28
+Each property below is a page on APIs.io carrying the machine-readable artifact and what it says.
 
-## APIs
+#### Security (1)
 
-### KeyRunner Platform
-The KeyRunner platform provides a local-first toolset for testing, monitoring, mocking, and running APIs with secrets kept on-device. Available as desktop apps, a VS Code extension, and a CLI distributed via npm. KeyRunner does not currently expose a public HTTP API.
+Authentication, trust centre, and vulnerability disclosure.
 
-**Human URL:** [https://keyrunner.app/](https://keyrunner.app/)
+- [Keyrunner Domain Security](https://apis.io/security/keyrunner/keyrunner-domain-security/)
 
+#### Plans and pricing (1)
 
-#### Tags:
+Published plans, tiers and prices.
 
- - API Client, Developer Tools
+- [Keyrunner Plans Pricing](https://apis.io/plans/keyrunner/keyrunner-plans-pricing/)
 
-#### Properties
+#### Rate limits (1)
 
-- [Documentation](https://keyrunner.app/)
+Published request limits.
+
+- [Keyrunner Rate Limits](https://apis.io/rate-limits/keyrunner/keyrunner-rate-limits/)
+
+#### FinOps (1)
+
+What the API costs to run, by operation.
+
+- [Keyrunner Finops](https://apis.io/finops/keyrunner/keyrunner-finops/)
+
+## Where to find this API
+
+Links to the company's own pages. This repository publishes no copy of their specifications — the canonical document is theirs and lives at the URLs below.
+
 - [Website](https://keyrunner.app/)
+- [Blog](https://keyrunner.app/blog)
 
-## Common Properties
+## API Evangelist rating
 
-- [Website](https://keyrunner.app/)
+**Kin Score 9.3** — minimal · rubric 0.24.0 · scored 2026-10-17
 
-## Maintainers
+| Facet | Score |
+|---|---|
+| Discoverability | 57.1 |
+| Contract quality | 0.0 |
+| Contract governance | 0.0 |
+| Operational transparency | 7.9 |
+| Developer ergonomics | 11.9 |
+| Access clarity | 7.9 |
 
-**FN:** Kin Lane
+**Agent readiness 0.6** — human-only
 
-**Email:** kin@apievangelist.com
+| Agent-readiness dimension | Result |
+|---|---|
+| Spec Presence | — |
+| Agentic Access | — |
+| Reversibility Documented | — |
+| MCP Server | — |
+| Auth Clarity | — |
+| Idempotency | — |
+| Error Semantics | — |
+| OpenAPI Examples | — |
+| Rate Limit Signal | derived (partial credit) |
+| Event Surface Described | — |
+| Agent Skills | — |
+| Well Known Catalog | — |
+| Consent Identity | — |
+| Agent Card | — |
+| Dry Run Mode | — |
+| Delegated Identity | — |
+| Protected Resource Metadata | — |
+| Dynamic Client Registration | — |
+| Agentic Commerce | — |
+
+**Regulatory alignment 5.9** — Horizontal (data, software, accessibility, platform)
+
+The rubric is published at [github.com/api-evangelist/kin-score](https://github.com/api-evangelist/kin-score). The per-check breakdown behind these numbers — which checks were earned, partial or missed — along with score history and how this provider compares to its peers, is available at [apis.io/providers/keyrunner/](https://apis.io/providers/keyrunner/).
+
+## How this profile is made
+
+API Evangelist profiles a company's public API surface the way a developer would find it: the website, developer portal and documentation, the specifications it publishes, its public repositories, and its pricing, status and changelog pages. From that it derives the properties above — contracts split per API, workflows, schemas, collections, governance rules, plans and rate limits — and scores them against the published [Kin Score rubric](https://github.com/api-evangelist/kin-score).
+
+The artifacts are published on [APIs.io](https://apis.io), not in this repository. This repository is the public record for KeyRunner: the place to say something is wrong, missing or out of date, and to ask for a re-score or a removal.
+
+## Open an issue
+
+- **Something about this listing** — a wrong description, a missing API, a stale artifact or a question about the rating: [open an issue on this repository](https://github.com/api-evangelist/keyrunner/issues/new).
+- **A new API, or one that is not in the catalog yet** — [submit it on APIs.io](https://apis.io/add/).
+- **Anything else** — [the APIs.io inbox](https://github.com/api-search/inbox/issues/new) or [info@apievangelist.com](mailto:info@apievangelist.com).
